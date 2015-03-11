@@ -4,45 +4,45 @@
 
 #class add animal
   #class add dog
-    > beagle/beagles
+    >> beagle/s
       | pron b"i-gVl/b"i-gVlz
-    > bulldog/bulldogs
+    >> bulldog/s
       | pron b"Ul-d%Og/b"Ul-d%Ogz
-    > dog/dogs
+    >> dog/s
       | pron d"Og/d"Ogz
-    > poodle/poodles
+    >> poodle/s
       | pron p"u-dVl/p"u-dVlz
-    > rottweiler/rottweilers
+    >> rottweiler/s
   #class remove dog
 
   #class add insect
-    > beetle/beetles
+    >> beetle/s
       | pron b"i-tVl/b"i-tVlz
-    > cricket/crickets
+    >> cricket/s
       | pron kr"I-kIt/kr"I-kVts
-    > grasshopper/grasshoppers
+    >> grasshopper/s
       | pron gr"{s-h%A-p3`/gr"{s-h%A-p3`z
-    > locust/locusts
+    >> locust/s
       | pron l"oU-kVst/l"oU-kVs
   #class remove insect
 
   #class add bird
-    > bird/birds
-    > seagull/seagulls
+    >> bird/s
+    >> seagull/s
       | pron si-gVl/si-gVlz
-    > hawk/hawks
-    > vulture/vultures
-    > woodpecker/woodpeckers
-    > crow/crows
-    > raven/ravens
-    > chickadee/chickadees
-    > chicken/chickens
+    >> hawk/s
+    >> vulture/s
+    >> woodpecker/s
+    >> crow/s
+    >> raven/s
+    >> chickadee/s
+    >> chicken/s
       | pron tS"I-kVn/tS"I-kVnz
-    > finch/finches
-    > rooster/roosters
-    > turkey/turkeys
-    > hummingbird/hummingbirds
-    > bluebird/blurbirds
+    >> finch/es
+    >> rooster/s
+    >> turkey/s
+    >> hummingbird/hummingbirdss
+    >> bluebird/s
     > goldfinch/goldfinches
     > eagle/eagles
     > owl/owls
