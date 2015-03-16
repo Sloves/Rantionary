@@ -1,15 +1,14 @@
-#version 1
+#version 3
 #name nonsense
 #subs normal ity le
 
-> zap/zappity/zapple
-> zop/zoppity/zopple
-> zip/zippity/zipple
-> zoop/zoopity/zoople
-> zoob/zoobity/zooble
-
-> bap/bappity/bapple
-> bop/boppity/bopple
-> bip/bippity/bipple
-> boop/boopity/boople
-> boob/boobity/booble
+>> bap/pity/ple
+>> bip/pity/ple
+>> boob/ity/le
+>> boop/ity/le
+>> bop/pity/ple
+>> zap/pity/ple
+>> zip/pity/ple
+>> zoob/ity/le
+>> zoop/ity/le
+>> zop/pity/ple

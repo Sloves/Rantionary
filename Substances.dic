@@ -1,4 +1,4 @@
-#version 2
+#version 3
 #name substance
 #subs default
 
@@ -84,25 +84,18 @@
   | pron spV-g"E-ti
 
 #nsfw
-> happiness
-> dick cheese
-> cum
-  | class liquid
-> lube
-  | class liquid
-> crotch juice
-  | class liquid
-> pee
-  | class liquid
-> piss
-  | class liquid
-> pisswater
-  | class liquid
-> diarrhea
-  | class liquid
-> jizz
-  | class liquid
-> urine
-  | class liquid
 
-#sfw
+#class add liquid
+  > crotch juice
+  > cum
+  > diarrhea
+  > jizz
+  > lube
+  > pee
+  > piss
+  > pisswater
+  > urine
+#class remove liquid
+
+> dick cheese
+> happiness
