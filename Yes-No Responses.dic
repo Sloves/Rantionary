@@ -69,7 +69,6 @@
   > yeppers
   > yes
     | pron j"Es
-  >> yes/
-    | pron j"Es/j"Es
+  >> yes
+    | pron j"Es
 #class remove yes
-
